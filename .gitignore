@@ -1,0 +1,15 @@
+### IntelliJ ###
+.idea/
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+
+### Maven ###
+.mvn
+target/
+
+### Java Package Files ###
+*.jar
+*.war
